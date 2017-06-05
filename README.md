@@ -5,13 +5,14 @@ Im Testmodus kann die Sensorempfindlichkeit eingestellt werden.
 Die Anzahl der Arme wird in der Vorauswahl getroffen.
 ![bild](Spinnerspeed_Steckboard.PNG))
 
-
+   
 /*Spinnerspeedmesser von Andreas Reheis 03.06.2017
  * Drehzahlmesser für die fidgetspinner mit Menüfunktion.
  * Menü 1 (Anzeige A) = Anzahl der Arme einstellen,
  * Menü 2 (Anzeige SE) = Sensibilität einstellen,
  * Menü 3 (Anzeige =) = Testfunktion, langsam drehen, Anzeige und Indikator_LED beobachten
  * Menü 4 (Anzeige SP) = Geschwindigkeitstest
+ * Menp 5 (Anzeige --) = Testdauer in Sekunden 
  * Bedienung: 
  * 1. In Menü 1 die Anzahl der Arme durch drücken der Set Taste anpassen
  * 2. Sensibilität einstellen (Anfang ist 5, möglich ist ein Wert zwischen 1 und 10)
