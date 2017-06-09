@@ -1,9 +1,18 @@
 # Spinnerspeed
 
 Der ultimative RPM_Messer für Spinner mit Armen. Gemessen wird die Umdrehung pro Minute. 
-Im Testmodus kann die Sensorempfindlichkeit eingestellt werden.
-Die Anzahl der Arme wird in der Vorauswahl getroffen.
+
+Entwickelt im [erfindergarden](https://www.erfindergarden.de), das FabLab in der Au, München.
+
+
 ![bild](Spinnerspeed_Steckboard_v_2_0.PNG)
+
+Menü 1: Anzahl der Arme auswählen
+Menü 2: Testdauer in Sekunden einstellen
+Menü 3: Testlauf
+Menü 4: Geschwindikeitsmessung
+
+
 
    
 
