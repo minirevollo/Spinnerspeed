@@ -26,10 +26,10 @@ Adafruit_SSD1306 display(OLED_RESET);
 #define DELTAY 2
  
 
-#define LED_PIN 13 //Indikator Led, zeigt im Menü3 eine Verdunklung an
+#define LED_PIN 8 //Indikator Led, zeigt im Menü3 eine Verdunklung an
 int sensorPin = 17; // 
-int menuePin = 11;  //Menüauswahlbotton
-int setPin = 12;   //Aktionspin im Menü
+int menuePin = 12;  //Menüauswahlbotton
+int setPin = 11;   //Aktionspin im Menü
 int menue = 0;     // zeigt an welcher Menüpunkt gewählt wurde
 int menuestate = HIGH;   //
 int setstate = LOW;
@@ -84,7 +84,7 @@ void menuewahl(){
        delay(50); //entprellen
        menuestate = HIGH;
        menue++;
-         if(menue > 5){
+         if(menue > 4){
            menue = 1;
          }
      }
