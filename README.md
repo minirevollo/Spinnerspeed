@@ -6,9 +6,8 @@ Entwickelt im [erfindergarden](https://www.erfindergarden.de), das FabLab in der
 
 -
 
-<img src = "IMG/Spinnerspeed_Steckboard_v_2_0.PNG" width = "48%"/>
-<img src = "IMG/IMG_20170609_173221.jpg" align = "rigth" width = "48%"/>
-IMG_20170609_173221.jpg
+<img src = "IMG/Spinnerspeed_Steckboard_v_2_0.PNG" width = "48%"/><img src = "IMG/IMG_20170609_173221.jpg" align = "right" width = "48%"/>
+
 
 
 - Menü 1: Anzahl der Arme auswählen
