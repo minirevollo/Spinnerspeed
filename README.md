@@ -4,8 +4,10 @@ Der ultimative RPM_Messer für Spinner mit Armen. Gemessen wird die Umdrehung pr
 
 Entwickelt im [erfindergarden](https://www.erfindergarden.de), das FabLab in der Au, München.
 
+-
 
-![bild](Spinnerspeed_Steckboard_v_2_0.PNG)
+<img src = "IMG/Spinnerspeed_Steckboard_v_2_0.PNG" width = "70%"/>
+
 
 
 - Menü 1: Anzahl der Arme auswählen
